@@ -9,7 +9,7 @@
 #include "GeneratedTypes.h"
 
 
-int v1a = 42;
+int v1a = 2323;
 
 int v2a = 2;
 int v2b = 4;

@@ -95,6 +95,7 @@ int main(int argc, const char **argv)
 
   portalExec_start();
 
+  fprintf(stderr, "Hello\n");
   fprintf(stderr, "Main::calling say1(%d)\n", v1a);
   device->say1(v1a);  
   fprintf(stderr, "Main::calling say2(%d, %d)\n", v2a,v2b);
